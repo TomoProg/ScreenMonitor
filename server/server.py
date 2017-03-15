@@ -4,7 +4,6 @@ import os
 import socketserver
 import socket
 
-
 class ServerHandler(socketserver.StreamRequestHandler):
     """ ServerHandler """
 
