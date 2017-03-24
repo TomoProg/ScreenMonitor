@@ -16,7 +16,7 @@ namespace client
         /// <summary>
         /// 接続先IP(server.pyが起動しているホストのIPを指定する)
         /// </summary>
-        static readonly string HOST_IP = "172.20.10.2";
+        static readonly string HOST_IP = "ここにIPアドレスを入れてね";
 
         /// <summary>
         /// 接続先ポート(server.pyが起動しているホストのポートを指定する)
